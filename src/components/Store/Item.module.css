@@ -1,0 +1,8 @@
+.item-img{
+    overflow: hidden;
+    transition: all 0.6s;
+}
+
+.item-img:hover{
+    transform: scale(1.4);
+}
